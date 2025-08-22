@@ -3,9 +3,6 @@
 icon: fas fa-info-circle
 order: 4
 ---
-
-# About Me
-
 Offensive Security Consultant and Pentester.
 
 I spend my time breaking into things so companies can fix them before someone with worse intentions does. Over the past couple of years I’ve worked on web apps, networks, APIs, and big corporate environments, always looking for the weak spots that could turn into real problems.
