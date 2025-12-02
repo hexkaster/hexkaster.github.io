@@ -98,7 +98,7 @@ theme_mode: light # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://github.com/hexkaster/hexkaster.github.io/blob/main/assets/img/Pirate.png
+avatar: https://pbs.twimg.com/profile_images/1994032594170617856/twzVw703_400x400.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
