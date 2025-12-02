@@ -3,7 +3,7 @@
 icon: fas fa-trophy
 order: 2
 ---
-Colletion of certifications that I've either acquired OR that are on my roadmap.
+Collection of certifications that I have already earned or that are currently on my roadmap.
 
 ## Offensive Security
 - [OSCP – Offensive Security Certified Professional (PEN-200)](https://www.credential.net/b8edf2fa-a943-4f2c-a32e-457cfefcf1c3)
