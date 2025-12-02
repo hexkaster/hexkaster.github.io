@@ -11,10 +11,5 @@ Over the past few years I’ve worked on **web applications, APIs, networks, and
 
 Outside of client work, I dive into **security research and new attack techniques**. I enjoy putting ideas into practice, writing about them, and turning advanced offensive security concepts into something others can actually use. I’ve also organized **CTFs and trainings**, since teaching is one of the best ways to sharpen skills.  
 
-## Certs
-- OSCP
-- OSEP
-- CRTO I & II
-
 ## Additional Information  
 - Follow me on [X (Twitter)](https://x.com/hexk4ster) :)
