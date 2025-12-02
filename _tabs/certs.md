@@ -22,3 +22,4 @@ Colletion of certifications that I've either acquired OR that are on my roadmap.
 
 ## Miscellaneous
 - [CompTIA Security+](https://www.credly.com/badges/1a2b8c1b-9665-4a12-8859-2b2bcda3d767/public_url)
+- [INE eJPT](https://certs.ine.com/9619100c-cecc-4e1b-b502-f8a8de48629c#acc.Gpgdsoyr)
