@@ -16,7 +16,7 @@ timezone:
 
 title: "Hexkaster" # the main title
 
-tagline: I love boring technical stuff # it will display as the subtitle
+tagline: pwning for fun and profit # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   "my security research blog!"
