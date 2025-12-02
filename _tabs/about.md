@@ -4,7 +4,9 @@ icon: fas fa-info-circle
 order: 1
 ---
 # Welcome to my blog!  
-I’m **hexkaster**, an Offensive Security Consultant and Pentester who spends most of his time breaking into systems so companies can fix them before someone with worse intentions does.  
+You can call me Gabriel; online most know me as **hexkaster**.  
+
+I’m an Offensive Security Consultant and Pentester: I get paid to find and exploit the holes in systems, networks, and apps so companies can patch them before someone less friendly beats me to it.
 
 ## What I Do  
 Over the past few years I’ve worked on **web applications, APIs, networks, and large corporate environments**, always looking for the cracks that could turn into real issues. My day-to-day covers **red team operations, pentesting, and threat intelligence across Latin America**.  
