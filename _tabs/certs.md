@@ -22,15 +22,13 @@ Collection of certifications that **I have already earned** or **that are curren
 - **CWES - Upcoming**
 - **CWEE - Upcoming**
 
-
 ## **Hack The Box Pro Labs**
 - **[Dante](https://www.credential.net/0192ab27-83b7-472b-903d-be97e1cac40b?username=hexkaster)**
 - **[Zephyr](https://www.credential.net/cacb0de6-3de1-4013-b11a-7eac029ab545?username=hexkaster)**
+- **Offshore - Upcoming**
 - **Cybernetics - Upcoming**
 - **APT Labs - Upcoming**
 - **Ifrit - Upcoming**
-
-
 
 ## **Miscellaneous**
 - **[CompTIA Security+](https://www.credly.com/badges/1a2b8c1b-9665-4a12-8859-2b2bcda3d767/public_url)**
