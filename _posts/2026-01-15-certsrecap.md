@@ -1,4 +1,3 @@
-
 ---
 title: "Three Certs in Six Months, Notes from My 2025 Cybersecurity Year"
 date: 2026-01-15 000:00:00 +0800
