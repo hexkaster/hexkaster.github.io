@@ -21,7 +21,7 @@ After recovery, I went all in. I rested for a couple of weeks post surgery, then
 
 ## III. 2025 Certs - CRTO, OSEP and CPTS
 ### CRTO
-[](/assets/img/CRTOI.png)
+[CRTO](/assets/img/CRTOI.png)
 
 First of all, props to [**Rastamouse**](https://x.com/_RastaMouse) for CRTO. This is probably my favorite certification course so far, and that’s not something I say lightly. It hits a very rare sweet spot. It’s _technically solid without being suffocating_, and it’s actually fun to work through, which is something most certs completely fail at. It explains things that are often hand-waved away, like the [Early Bird attack](https://digital.nhs.uk/cyber-alerts/2018/cc-2282), but it does so without turning the course into a theoretical dissertation. You feel like you’re learning real tradecraft, not memorizing trivia for an exam.
 
