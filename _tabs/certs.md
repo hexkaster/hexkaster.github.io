@@ -17,7 +17,7 @@ Collection of certifications that **I have already earned** or **that are curren
 - **CRTO II - Upcoming**
 
 ## **Hack The Box**
-- **CPTS - Upcoming**
+- [**CPTS**](https://www.credly.com/badges/ee20568c-7ba4-4612-9ba8-d0ffb08c1f67)
 - **CAPE - Upcoming**
 - **CWES - Upcoming**
 - **CWEE - Upcoming**
