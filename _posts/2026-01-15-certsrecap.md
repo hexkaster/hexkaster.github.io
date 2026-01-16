@@ -6,7 +6,7 @@ tags: [cybersec]
 ---
 
 ## I. Foreword
-This is not a regular post, in the sense that I could just sit here, write a long recap of the certs I took this year, and move on with my day. This one leans more toward a mix of rant, personal update, storytelling, and a How The Certs Went™ type of breakdown. If you want to skip the warmup and go straight to the meat and potatoes, feel free. 
+This is not a regular post, in the sense that I could just sit here, write a long recap of the certs I took this year, and move on with my day. This one leans more toward a mix of rant, personal update, storytelling, and a How The Certs Went™ type of breakdown. If you want to skip the warmup and go straight to the [meat and potatoes](#iii-2025-certs---crto-osep-and-cpts), feel free. 
 ## II. Introduction
 As I started writing this, I kept thinking about how 2025 has probably been the closest I’ve ever gotten to what people like to call an [_annum mirabilis_](https://arxiv.org/pdf/2112.13519). At the beginning of the year, I got a little obsessed with that idea, and looking back, it feels slightly misplaced. Not wrong exactly, just overdetermined.
 
