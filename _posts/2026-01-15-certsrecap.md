@@ -64,6 +64,9 @@ Would I recommend it? __Yes__, with a very specific caveat. You need to actually
 
 Would I take it again? __Hard to say__. In terms of quality, it’s on par with CRTO. In terms of cost, it’s a different universe. CRTO cost me a little under 250 euros thanks to PPP, _living in Brazil occasionally has its perks_. OSEP, on the other hand, came in at a staggering __1,750 dollars__. It’s not worth that much in any objective sense, but OffSec will keep being OffSec for the foreseeable future, so I did the math and decided it was acceptable. I’m pretty cheap, I don’t care much about luxury or status purchases, and the money was already there. Still, it’s hard to look someone in the eye and say any certification is worth 1,750 dollars. Everyone just values things differently.
 
+![pricing](/assets/img/pricing.jpeg)
+
+
 > Below are some of the materials, scripts, and other resources I used to prepare for the exam:
 
 | Study Resources                              | Review                                                                                                                                                                                                                                                                                                                                    |
@@ -144,3 +147,5 @@ I also couldn’t help thinking about Dumas himself. A wildly prolific writer, c
 "Wait and hope" (the book's biggest takeaway) sounds naive until you realize **how hard both of those things actually are**, especially when life isn’t dramatic enough to feel tragic, but not fulfilling enough to feel complete either. I think that’s why it felt reassuring to me, especially looking back at this past year. Stretches of life that feel flat, repetitive, or vaguely unsatisfying are not failures, they are just part of the accumulation. That waiting is not wasted time. That some things only make sense once you finally have the space to notice what they were preparing you for.
 
 Thanks for reading!
+
+![NGU](/assets/img/NGU.jpeg)
