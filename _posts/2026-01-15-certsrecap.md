@@ -3,6 +3,7 @@ title: "Three Certs in Six Months, Notes from My 2025 Cybersecurity Year"
 date: 2026-01-15 000:00:00 +0800
 categories: [cybersec]
 tags: [cybersec]
+image: /assets/img/motoko.png
 ---
 
 ## I. Foreword
@@ -20,6 +21,8 @@ After recovery, I went all in. I rested for a couple of weeks post surgery, then
 
 ## III. 2025 Certs - CRTO, OSEP and CPTS
 ### CRTO
+[](/assets/img/CRTOI.png)
+
 First of all, props to [**Rastamouse**](https://x.com/_RastaMouse) for CRTO. This is probably my favorite certification course so far, and that’s not something I say lightly. It hits a very rare sweet spot. It’s _technically solid without being suffocating_, and it’s actually fun to work through, which is something most certs completely fail at. It explains things that are often hand-waved away, like the [Early Bird attack](https://digital.nhs.uk/cyber-alerts/2018/cc-2282), but it does so without turning the course into a theoretical dissertation. You feel like you’re learning real tradecraft, not memorizing trivia for an exam.
 
 What really stood out to me is how intentional the course feels. The content sits somewhere between HTB’s CAPE and OffSec’s OSEP, but it avoids the worst tendencies of both. It doesn’t lean too hard on CAPE’s quirks or gotchas, and it doesn’t do the OffSec thing where you’re thrown into the deep end and told to “figure it out” as if confusion were a teaching methodology. CRTO respects your time. Every topic feels like it’s there for a reason, and every lab feels like it’s reinforcing something concrete rather than just flexing difficulty.
