@@ -21,7 +21,7 @@ After recovery, I went all in. I rested for a couple of weeks post surgery, then
 
 ## III. 2025 Certs - CRTO, OSEP and CPTS
 ### CRTO
-![[/assets/img/CRTOI.png]]
+![CRTO](/assets/img/CRTOI.png)
 
 First of all, props to [**Rastamouse**](https://x.com/_RastaMouse) for CRTO. This is probably my favorite certification course so far, and that’s not something I say lightly. It hits a very rare sweet spot. It’s _technically solid without being suffocating_, and it’s actually fun to work through, which is something most certs completely fail at. It explains things that are often hand-waved away, like the [Early Bird attack](https://digital.nhs.uk/cyber-alerts/2018/cc-2282), but it does so without turning the course into a theoretical dissertation. You feel like you’re learning real tradecraft, not memorizing trivia for an exam.
 
@@ -44,6 +44,8 @@ CRTO is very self-contained, and that’s one of its biggest strengths. If you a
 | CRTO Course Labs      | Mandatory. This is where the course really clicks. Don’t just grab the flag, understand why the attack works and how you could adapt it. |
 
 ### OSEP
+![OSEP](/assets/img/OSEP.png)
+
 Now, shifting gears to OSEP.
 
 This one is funny to talk about because people love to oversell it as some mythical, ultra-advanced rite of passage, when in reality it is exactly what OffSec says it is. An experienced pentester course that teaches you how to break into more complex environments. No more, no less. And to be fair, it actually delivers on that promise.
@@ -75,6 +77,8 @@ Would I take it again? __Hard to say__. In terms of quality, it’s on par with 
 
 
 ### CPTS
+![CPTS](/assets/img/CPTS.jpg)
+
 CPTS was the last cert I wrapped up this year, and honestly, it felt more like checking off a box than hitting a major milestone. Not in a bad way, just in a very matter-of-fact one. I already had an HTB Gold subscription from last 2024's Christmas discount, which I originally bought with the intention of taking [CAPE](https://academy.hackthebox.com/preview/certifications/htb-certified-active-directory-pentesting-expert). I even finished the CAPE course, but CPTS ended up being the more logical next step, so I pushed the CAPE exam further down the line.
 
 Because Gold lets you see the answers for every exercise, I didn’t feel any real need to grind through the entire CPTS course from scratch. That might sound lazy, but it was more about honesty than shortcuts. I already knew most of the material well enough to explain it to someone else, so forcing myself to rediscover it line by line would’ve been performative more than educational.
