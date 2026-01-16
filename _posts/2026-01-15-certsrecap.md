@@ -5,10 +5,10 @@ categories: [cybersec]
 tags: [cybersec]
 ---
 
-# I. Foreword
+## I. Foreword
 This is not a regular post, in the sense that I could just sit here, write a long recap of the certs I took this year, and move on with my day. This one leans more toward a mix of rant, personal update, storytelling, and a How The Certs Went™ type of breakdown. If you want to skip the warmup and go straight to the meat and potatoes, feel free. 
-# II. Introduction
-As I started writing this, I kept thinking about how 2025 has probably been the closest I’ve ever gotten to what people like to call an _annum mirabilis_. At the beginning of the year, I got a little obsessed with that idea, and looking back, it feels slightly misplaced. Not wrong exactly, just overdetermined.
+## II. Introduction
+As I started writing this, I kept thinking about how 2025 has probably been the closest I’ve ever gotten to what people like to call an [_annum mirabilis_](https://arxiv.org/pdf/2112.13519). At the beginning of the year, I got a little obsessed with that idea, and looking back, it feels slightly misplaced. Not wrong exactly, just overdetermined.
 
 It wasn’t flawless. There were stretches where things felt heavy and constrained, especially physically. I ended up dealing with my second case of De Quervain’s tendonitis, this time in my right hand instead of the left. I had already gone through a milder version of it in 2024, but this flare-up was more persistent. Around April, several things shifted at once, including a job change and the growing realization that surgery would probably be unavoidable. Knowing there was a clear path forward helped settle my head more than I expected.
 
@@ -18,8 +18,8 @@ Once I felt functional again, I tested the waters by jumping into HTB Pro Labs. 
 
 After recovery, I went all in. I rested for a couple of weeks post surgery, then jumped straight into Zero Point Security’s CRTO. I spent just under three weeks on the material, booked the exam, and passed. Right after that, I picked up OffSec’s OSEP, studied for a bit under two months, scheduled the exam, and passed with seventeen flags. Then, by late December, I decided to take on HTB’s CPTS, which went more or less as expected. Success.
 
-# III. 2025 Certs - CRTO, OSEP and CPTS
-## CRTO
+## III. 2025 Certs - CRTO, OSEP and CPTS
+### CRTO
 First of all, props to **Rastamouse** for CRTO. This is probably my favorite certification course so far, and that’s not something I say lightly. It hits a very rare sweet spot. It’s technically solid without being suffocating, and it’s actually fun to work through, which is something most certs completely fail at. It explains things that are often hand-waved away, like the Early Bird attack, but it does so without turning the course into a theoretical dissertation. You feel like you’re learning real tradecraft, not memorizing trivia for an exam.
 
 What really stood out to me is how intentional the course feels. The content sits somewhere between HTB’s CAPE and OffSec’s OSEP, but it avoids the worst tendencies of both. It doesn’t lean too hard on CAPE’s quirks or gotchas, and it doesn’t do the OffSec thing where you’re thrown into the deep end and told to “figure it out” as if confusion were a teaching methodology. CRTO respects your time. Every topic feels like it’s there for a reason, and every lab feels like it’s reinforcing something concrete rather than just flexing difficulty.
@@ -40,7 +40,7 @@ CRTO is very self-contained, and that’s one of its biggest strengths. If you a
 | CRTO Course Materials | Do all of it. Seriously. The course is tightly scoped and every section matters. Skipping parts here will come back to bite you later.   |
 | CRTO Course Labs      | Mandatory. This is where the course really clicks. Don’t just grab the flag, understand why the attack works and how you could adapt it. |
 
-## OSEP
+### OSEP
 Now, shifting gears to OSEP.
 
 This one is funny to talk about because people love to oversell it as some mythical, ultra-advanced rite of passage, when in reality it is exactly what OffSec says it is. An experienced pentester course that teaches you how to break into more complex environments. No more, no less. And to be fair, it actually delivers on that promise.
@@ -71,7 +71,7 @@ Would I take it again? Hard to say. In terms of quality, it’s on par with CRTO
 
 
 
-## CPTS
+### CPTS
 CPTS was the last cert I wrapped up this year, and honestly, it felt more like checking off a box than hitting a major milestone. Not in a bad way, just in a very matter-of-fact one. I already had an HTB Gold subscription from last 2024's Christmas discount, which I originally bought with the intention of taking CAPE. I even finished the CAPE course, but CPTS ended up being the more logical next step, so I pushed the CAPE exam further down the line.
 
 Because Gold lets you see the answers for every exercise, I didn’t feel any real need to grind through the entire CPTS course from scratch. That might sound lazy, but it was more about honesty than shortcuts. I already knew most of the material well enough to explain it to someone else, so forcing myself to rediscover it line by line would’ve been performative more than educational.
@@ -95,7 +95,7 @@ In the end, CPTS delivered what it needed to deliver. I took the exam, passed, c
 | Prior Real-World or Lab Experience     | Easily the biggest factor. If you’ve done network pentests or similar labs before, the exam will feel fairly straightforward.                                                                           |
 
 Now, on to OSED, or OSWE, or CRTO II, whatever. 
-# IV. Reflections on the Year
+## IV. Reflections on the Year
 
 This was not an _annum mirabilis_, and honestly, it probably shouldn’t have been. Life isn’t perfect all the time, and it’s a bit silly to expect it to be. Something beautiful is always going to happen, something frustrating or messy too, and that mix is what makes it interesting in the first place.
 
@@ -115,7 +115,7 @@ At the same time, I do not think luck is entirely passive. Some things are compl
 
 Connecting with people quietly raise the probability of something good happening. You talk to someone without a goal in mind, exchange a few half formed thoughts, and move on. Nothing seems to come of it at the time. Then, months later, something clicks. A problem shows up that reminds you of a conversation you barely remember having. A name surfaces when an opportunity appears. An idea you dismissed as vague suddenly has context and weight. The connection was already there, just waiting for the right moment to make sense. It feels nice.
 
-# V. Sinbad the Sailor
+## V. Sinbad the Sailor
 
 We’ll get a bit off track here, but honestly, I don’t see another way to wrap this up.
 
