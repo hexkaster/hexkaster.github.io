@@ -46,7 +46,7 @@ CRTO is very self-contained, and that’s one of its biggest strengths. If you a
 ### OSEP
 ![OSEP](/assets/img/OSEP.png)
 
-Now, shifting gears to OSEP.
+Now, shifting gears to **OSEP**.
 
 This one is funny to talk about because people love to oversell it as some mythical, ultra-advanced rite of passage, when in reality it is exactly what OffSec says it is. An experienced pentester course that teaches you how to break into more complex environments. No more, no less. And to be fair, it actually delivers on that promise.
 
